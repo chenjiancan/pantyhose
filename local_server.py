@@ -22,7 +22,6 @@ logger = logging.getLogger(__name__)
 
 LOCAL_PORT = 9011
 
-# SERVER_ADDRESS = "104.153.102.152"
 SERVER_ADDRESS = "127.0.0.1"
 SERVER_PORT = 9988
 
